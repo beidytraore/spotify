@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "icon": "heart-o",
+    "title": "Comme",
+    "lib": "FontAwesome"
+  },
+  {
+    "id": 2,
+    "icon": "account-music",
+    "title": "Voir l'artiste",
+    "lib": "MaterialCommunityIcons"
+  },
+  {
+    "id": 3,
+    "icon": "share-alternative",
+    "title": "Partager",
+    "lib": "Entypo"
+  },
+  {
+    "id": 4,
+    "icon": "heart-o",
+    "title": "Comme toutes les chansons",
+    "lib": "FontAwesome"
+  },
+  {
+    "id": 5,
+    "icon": "queue-music",
+    "title": "Ajouter à la playlist",
+    "lib": "MaterialIcons"
+  },
+  {
+    "id": 6,
+    "icon": "playlist-add",
+    "title": "Ajouter à la liste",
+    "lib": "MaterialIcons"
+  },
+  {
+    "id": 7,
+    "icon": "radio",
+    "title": "Aller à la radio",
+    "lib": "Feather"
+  }
+]

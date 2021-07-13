@@ -1,0 +1,21 @@
+{
+  "artist": "Lana Del Rey",
+  "backgroundColor": "#3d4c6c",
+  "image": "bornToDie",
+  "released": 2012,
+  "title": "Né pour mourir",
+  "tracks": [
+    { "title": "Né pour mourir", "seconds": 161 },
+    { "title": "Hors de la course", "seconds": 245 },
+    { "title": "Blue Jeans", "seconds": 288 },
+    { "title": "Jeux vidéo", "seconds": 215 },
+    { "title": "Montagne de regime rosée", "seconds": 345 },
+    { "title": "Hymne national", "seconds": 250 },
+    { "title": "Paradis sombre", "seconds": 287 },
+    { "title": "Radio", "seconds": 271 },
+    { "title": "Carmen", "seconds": 210 },
+    { "title": "Million dollar", "seconds": 237 },
+    { "title": "Heure d'été tristesse", "seconds": 345 },
+    { "title": "C'est ce qui fait de nous des filles", "seconds": 347 }
+  ]
+}
